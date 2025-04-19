@@ -49,6 +49,7 @@ This repository serves as:
 
 - Power BI Desktop
 - Excel
+- Power Query
 - DAX (Data Analysis Expressions)
 - Git & GitHub for version control and documentation
 
