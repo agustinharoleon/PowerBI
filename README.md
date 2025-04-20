@@ -64,6 +64,6 @@ If you have any suggestions or questions, feel free to open an issue or connect 
 
 ## ✍️ Author
 
-Created by [Your Name or GitHub Username]  
-*Data Analyst in training | Power BI enthusiast | Sociologist & Data Scientist*
+Created by Agustín Haro León  
+ Power BI enthusiast | Sociologist & Data Scientist*
 
